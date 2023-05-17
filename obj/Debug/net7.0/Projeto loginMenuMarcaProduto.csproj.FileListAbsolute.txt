@@ -1,0 +1,5 @@
+C:\Users\1185849874\Desktop\Projeto loginMenuMarcaProduto\obj\Debug\net7.0\Projeto loginMenuMarcaProduto.csproj.AssemblyReference.cache
+C:\Users\1185849874\Desktop\Projeto loginMenuMarcaProduto\obj\Debug\net7.0\Projeto loginMenuMarcaProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1185849874\Desktop\Projeto loginMenuMarcaProduto\obj\Debug\net7.0\Projeto loginMenuMarcaProduto.AssemblyInfoInputs.cache
+C:\Users\1185849874\Desktop\Projeto loginMenuMarcaProduto\obj\Debug\net7.0\Projeto loginMenuMarcaProduto.AssemblyInfo.cs
+C:\Users\1185849874\Desktop\Projeto loginMenuMarcaProduto\obj\Debug\net7.0\Projeto loginMenuMarcaProduto.csproj.CoreCompileInputs.cache
