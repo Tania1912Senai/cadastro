@@ -1,10 +1,6 @@
-
-
 namespace Projeto_loginMenuMarcaProduto
 {
     public class Login
-    {
-        public class Login
     {
         public bool Logado { get; set; }
 
@@ -89,7 +85,9 @@ namespace Projeto_loginMenuMarcaProduto
                         break;
                     case "4":
                         //cadastrar
-                        marca.Cadastrar();
+                        marca.Cadastrar(v,
+                        //cadastrar
+                        marca.GetV(), Console);
                         break;
                     case "5":
                         //listar
@@ -113,6 +111,5 @@ namespace Projeto_loginMenuMarcaProduto
             } while (opcao != "0");
 
         }
-
     }
 }
