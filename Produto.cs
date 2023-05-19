@@ -38,12 +38,12 @@ namespace Projeto_loginMenuMarcaProduto
         {
             foreach( var item in listaDeProdutos)
             {
-                Console.WriteLine($" Marca| (Item,Marca)");
-                Console.WriteLine($" Codigoproduto| (Item,CodigoProduto)");
-                Console.WriteLine($" NomeProduto| (Item, NomeProduto)");
-                Console.WriteLine($" Preco| (Item,Preco)");
-                Console.WriteLine($" DataCadastro|(Item, DataCadatro)");
-                Console.WriteLine($ CadastradoPor: (item, CadastroPor)");
+               System.Console.WriteLine($" Marca| (Item,Marca)");
+               System.Console.WriteLine($" Codigoproduto| (Item,CodigoProduto)");
+               System.Console.WriteLine($" NomeProduto| (Item, NomeProduto)");
+               System.Console.WriteLine($" Preco| (Item,Preco)");
+               System.Console.WriteLine($" DataCadastro|(Item, DataCadatro)");
+               System.Console.WriteLine($ CadastradoPor: (item, CadastroPor)");
             }
         }
 
