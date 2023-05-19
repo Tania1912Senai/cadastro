@@ -30,10 +30,22 @@ namespace Projeto_loginMenuMarcaProduto
         List<Produto> listaDeProdutos = new List<Produto>();
 
         public void Cadastrar()
+        Produto novoProduto = newProduto()
+        NovoProduto.CadastradoPor = new Usuario();
+        NovoProduto.Marca = Marca.CadastrarMarca();
+        //cadastro um novo produto com seus dados, nome, codigo, preco e data.
+        //cadastra acionando o menu e depois ser adicionado na lista de produtos
         {
            
         }
-
+           System.Console.Write ("Codigo do Produto:");
+           NovoProduto.Codigo = Int.Parse(Console.readLine());
+           System.Console.Write ("Nome do Produto:");
+           NovoProduto.NomeProduto = Int.Parse(Console.readLine());
+           System.Console.Write ("Preco do Produto:");
+           NovoProduto.PrecoProduto = Int.Parse(Console.readLine());
+           Novo.Produto.DataCadastro = DateTime.UtcNow;
+           
         public void Listar()
         {
             foreach( var item in listaDeProdutos)
